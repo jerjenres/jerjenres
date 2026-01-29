@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://jresjen.dev" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=jresjen.dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&center=true&vCenter=true&width=435&lines=jresjen.dev" alt="Typing SVG" />
   </a>
 </div>
 
