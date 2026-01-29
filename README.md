@@ -15,9 +15,11 @@
 ###
 
 <div align="center">
+  <h3>
   <a href="https://jresjen.dev" target="_blank">
-    <h3>jresjen.dev</h3>
+    jresjen.dev
   </a>
+  </h3>
 </div>
 
 ###
