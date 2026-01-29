@@ -92,7 +92,7 @@
 ###
 
 <div align="center">
-  <p>Let’s build something meaningful together.</p>
+  <b><p>Let’s build something meaningful together.</p></b>
   <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ6a3VncnkyMmdramNpYmZyYnpndjU1c2V4OWh3cjBwZzZzaWhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CM6LfbiWAG2yH8Yulg/giphy.gif"  />
 </div>
 
